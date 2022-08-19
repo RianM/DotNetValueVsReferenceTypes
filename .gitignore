@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# ReSharper is a .NET coding add-in
+.idea
+*.DotSettings.user
